@@ -1,0 +1,11 @@
+BIS 205 GITHUB PORTFOLIO — SUBMISSION
+
+1. Sign in to github.com and create a PUBLIC repository named bis205-portfolio. Check Add README only if you are not uploading the included README, otherwise leave it unchecked.
+2. Open the new repository and choose Add file > Upload files.
+3. Extract the ZIP on your computer FIRST. Upload index.html, README.md, and the projects folder with its files. Do not upload the ZIP as the only file. Commit changes.
+4. Go to Settings > Pages > Build and deployment > Deploy from a branch > main > /(root) > Save.
+5. Wait for GitHub Pages to publish. Your site will usually be https://YOUR-USERNAME.github.io/bis205-portfolio/ . Replace YOUR-USERNAME with your real GitHub username and verify the page opens.
+6. Submit that working website link on Blackboard, along with the repository link if your instructor asks for it.
+7. Confirm all file links work. Note: Power BI and Access files download rather than open in the browser.
+
+No GitHub repository has been created or published automatically.
